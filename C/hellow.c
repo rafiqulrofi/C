@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+
+int main()
+{
+    printf("hellow word");
+    getch();
+    
+}
